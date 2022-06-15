@@ -84,6 +84,29 @@ MinibossControl.Presets = {
     -- If true, Tiny Vermin will not spawn
     RemoveTinyVermin = true,
   },
+  HestiCuties= {
+    -- Tartarus_Bombers
+    A_MiniBoss01 = 0,
+    -- Tartarus_Doomstone TODO: Handle middle management?
+    A_MiniBoss04 = 0,
+    -- Tartarus_Sneak
+    A_MiniBoss03 = 3,
+
+    -- Asphodel_Barge
+    B_Wrapping01 = 0,
+    -- Asphodel_PowerCouple,
+    B_MiniBoss01 = 1,
+    -- Asphodel_Witches
+    B_MiniBoss02 = 2,
+
+    -- Elysium_ButterflyBall
+    C_MiniBoss02 = 0,
+    -- Elysium_Asterius
+    C_MiniBoss01 = 2,
+
+    -- If true, Tiny Vermin will not spawn
+    RemoveTinyVermin = true,
+  },
   Leaderboard = {
     -- Tartarus_Bombers
     A_MiniBoss01 = 1,
